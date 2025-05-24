@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I am Nanki! 👋
+
+I am an Full Stack Engineer originally from the Bay Area and currently based in Los Angeles, California. In 2023, I graduated with a BS in Computer Engineering & Computer Science from Santa Clara University. I recieved my AWS Certification in Cloud Computing in May 2025.
+
+I am currently working at a Multinational Industrial Tech Company called AVEVA as a Software Engineer. I have helped build its full stack web applictaion for InTouch using C++/C#, Telerik, and the .NET framework. 
+
+In my free time, I work on advancing my other technical skills. I am currently building out Touch Grass and Kupra, my own mobile applications. Additionally, I am getting my AWS Associate Certification in being a Solutions Architect.
+
+<!--🖥️ See my portfolio at Roberto Efrain Hernandez -->
+✉️ You can contact me at nankisekhon01@gmail.com
+<!--🤝 I'm open to collaborating on SwiftUI Projects-->
 
 <!--
 **1nsekhon/1nsekhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
